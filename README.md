@@ -57,9 +57,11 @@ print(insertion_sort(arr))
 
 ## Output:
 i)
-![Alt text](<sele out 1.png>)
+![sele out 1](https://github.com/vinodhini-17/Sorting-Algorithm/assets/145742741/4c0a7983-3678-403a-a93d-f6269b0d5810)
+
 ii)
-![Alt text](<sele out 2.png>)
+![sele out 2](https://github.com/vinodhini-17/Sorting-Algorithm/assets/145742741/f74b8cf0-8e76-4951-8552-d20ded61a085)
+
 
 ## Result:
 Thus the program is written to perform selection sort and insertion sort using python programming.
